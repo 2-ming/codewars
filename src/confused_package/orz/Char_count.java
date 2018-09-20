@@ -22,7 +22,7 @@ public class Char_count {
         char[] array_char=str.toCharArray();//将字符串转化为字符数组
         String[]array_string=new String[array_char.length];//汉字只能作为字符串处理
         for(int i=0;i<array_char.length;i++) {
-        	System.out.println(array_char[i]);
+//        	System.out.println(array_char[i]);
         	array_string[i]=String.valueOf(array_char[i]);
         }
         for (String s:array_string) {
