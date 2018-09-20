@@ -15,10 +15,10 @@ public class TowToOne {
 	        	}
 	          }
 	        }
-	      
+	    
 			return sb.toString();
 }
 	 public static void main(String[]args) {
-		 System.out.println(longest("Ildlayoved","dayyu"));
+		 System.out.println(longest("Illove","evoluu"));
 	 }
 	}
