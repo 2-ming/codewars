@@ -19,6 +19,6 @@ public class TowToOne {
 			return sb.toString();
 }
 	 public static void main(String[]args) {
-		 System.out.println(longest("abday","dayyou"));
+		 System.out.println(longest("Ildlayoved","dayyu"));
 	 }
 	}
